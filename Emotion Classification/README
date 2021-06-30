@@ -1,3 +1,4 @@
 Bayesian-HPSearch.ipynb - The notebook that was used to do Bayesian optimization.
 Training-RobBERT.ipynb - The notebook that was used to re-train the model using the best set of hyperparamters, after Bayesian.
 bayesian_results.xlsx - Contains the results of Bayesian optimization.
+Both notebooks should be ran on Google Colab.
